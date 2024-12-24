@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Eli F.! 👋
 
 I'm a passionate **Front-End Engineer** specializing in building stunning and responsive web interfaces. With expertise in modern technologies like React, Vue, and Tailwind CSS, I aim to craft seamless user experiences.
 
@@ -11,21 +11,20 @@ I'm a passionate **Front-End Engineer** specializing in building stunning and re
 - **Version Control:** Git, GitHub
 
 ## 🌟 Featured Projects
-### [Project 1: Portfolio Website](https://github.com/username/portfolio)
+### [Project 1: Portfolio Website](https://github.com/scriptwizpro/portfolio)
 A personal portfolio to showcase my work, built with React and Tailwind CSS.
 
-### [Project 2: E-Commerce Platform](https://github.com/username/ecommerce)
+### [Project 2: E-Commerce Platform](https://github.com/scriptwizpro/ecommerce)
 A fully functional e-commerce web application with React and Redux.
 
-### [Project 3: Dashboard UI](https://github.com/username/dashboard)
+### [Project 3: Dashboard UI](https://github.com/scriptwizpro/dashboard)
 A modern and responsive dashboard interface using Vue.js and Tailwind CSS.
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scriptwizpro&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 - [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://linkedin.com/in/eli-f-)
