@@ -7,7 +7,7 @@ I'm a passionate **Front-End Engineer** specializing in building stunning and re
 - **Frameworks & Libraries:** React, Vue.js, Angular
 - **Styling Tools:** Tailwind CSS, SASS, Bootstrap
 - **Other Tools:** Git, Webpack, Vite, NPM/Yarn
-- **Testing:** Jest, Cypress
+- **Testing:** Jest, Mocha, Jasmine
 - **Version Control:** Git, GitHub
 
 ## 🌟 Featured Projects
