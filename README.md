@@ -26,5 +26,5 @@ A modern and responsive dashboard interface using Vue.js and Tailwind CSS.
 ---
 
 ## 🌐 Connect with Me
-- [Portfolio](https://softyork.com)
+- [Portfolio](https://www.softyork.com)
 - [LinkedIn](https://linkedin.com/in/eli-f-)
