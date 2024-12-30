@@ -11,14 +11,9 @@ I'm a passionate **Front-End Engineer** specializing in building stunning and re
 - **Version Control:** Git, GitHub
 
 ## 🌟 Featured Projects
-### [Project 1: Portfolio Website](https://github.com/scriptwizpro/portfolio)
-A personal portfolio to showcase my work, built with React and Tailwind CSS.
-
-### [Project 2: E-Commerce Platform](https://github.com/scriptwizpro/ecommerce)
-A fully functional e-commerce web application with React and Redux.
-
-### [Project 3: Dashboard UI](https://github.com/scriptwizpro/dashboard)
-A modern and responsive dashboard interface using Vue.js and Tailwind CSS.
+### [Project 1: Real Estate App](https://github.com/scriptwizpro/real_estate)
+Live demo: https://www.softyork.com/projects/real-estate
+Full-stack Real Estate App with real-time chat using Socket.io. Features Prisma, JWT authentication, cookies, Context API, and React Router DOM for a modern, scalable web solution.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scriptwizpro&show_icons=true&theme=radical)
