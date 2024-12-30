@@ -12,8 +12,7 @@ I'm a passionate **Front-End Engineer** specializing in building stunning and re
 
 ## 🌟 Featured Projects
 ### [Project 1: Real Estate App](https://github.com/scriptwizpro/real_estate)
-Live demo: https://www.softyork.com/projects/real-estate
-Full-stack Real Estate App with real-time chat using Socket.io. Features Prisma, JWT authentication, cookies, Context API, and React Router DOM for a modern, scalable web solution.
+Full-stack Real Estate App with real-time chat using Socket.io. Features Prisma, JWT authentication, cookies, Context API, and React Router DOM for a modern, scalable web solution. Live demo: https://www.softyork.com/projects/real-estate
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scriptwizpro&show_icons=true&theme=radical)
