@@ -1,14 +1,16 @@
 # Hi, I'm Eli F.! 👋
 
-I'm a passionate **Front-End Engineer** specializing in building stunning and responsive web interfaces. With expertise in modern technologies like React, Vue, and Tailwind CSS, I aim to craft seamless user experiences.
+I'm a passionate **Full Stack Software Engineer** specializing in building stunning and responsive web interfaces. With expertise in modern technologies like React, Vue, and Tailwind CSS, I aim to craft seamless user experiences.
 
 ## 🚀 Skills
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Vue.js, Angular
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, PHP, Ruby, Java
+- **Frameworks & Libraries:** React, Vue.js, Angular, Node.js, Express.js, Django, Flask, Ruby on Rails, Spring Boot
 - **Styling Tools:** Tailwind CSS, SASS, Bootstrap
-- **Other Tools:** Git, Webpack, Vite, NPM/Yarn
-- **Testing:** Jest, Mocha, Jasmine
-- **Version Control:** Git, GitHub
+- **Other Tools:** Git, Webpack, Vite, NPM/Yarn, Docker, Postman, RESTClient
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite
+- **Authentication & Security:** OAuth, JWT, Passport.js, Auth0
+- **Testing:** Jest, Mocha, Jasmine, PyTest, JUnit
+- **Version Control:** Git, GitHub, GitLab, Bitbucket
 
 ## 🌟 Featured Projects
 ### [Project 1: Real Estate App](https://github.com/scriptwizpro/real_estate_ui)
